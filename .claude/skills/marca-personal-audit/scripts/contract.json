@@ -310,7 +310,7 @@
     "components/ToggleGroup.tsx": "9f6e913950df751f62bc13dc7fabb69ef62427eeb6fba62291478f375674bd6f",
     "components/index.ts": "f959b376648085d5e15b0667a34a2b4e2379cb303d1fd6b8ec9b590315bac47f",
     "package.json": "4aebddb7c7d698d6e16a1d6f9a963ad1fb61dda47af30697a6d20b7e24ea5370",
-    "README.md": "0ca9c969c52f2e82bebeca68d22fe6f55801c81a53b8a3577b1fa97fa2cd835a",
+    "README.md": "9a136c798bb88982aac8c9c372a58e28f7768c52d3eba14a2667a9285a468724",
     "AGENTS.md": "8c412798e5e3bc0ff6c9c4a0ba7dc06b186303f4365c6fee656e4ae2b246a205",
     "design-system.json": "56dc185062419745c8aded59ea19cd4a68b6919f04380b3ca4e5cd323cee7112",
     "tokens.md": "cc16dfa4555356b3ab6816a78dd18bf212f307f0e6ccd6256498edaad414d787",
@@ -358,6 +358,6 @@
     "components/Textarea.md": "e8757f3ecdde3ba2146ecda05f172574faa3c08e270f5abbf69a60163a61b263",
     "components/Toggle.md": "ccc610068bb63cce7a42aaea793775299c58a57b452c1c6e1cd7b71d83908374",
     "components/ToggleGroup.md": "d0cbf9454c9b206f167053bf3a7de01b3104b24aff329f3d27e9caeb37029ced",
-    "CHANGELOG.md": "f6f748968066936359df7f1a5b5c8d67434581437dc627a695e12d847c596114"
+    "CHANGELOG.md": "c0223efed8a8811fc80bde51c8e6dfb01dfb6d4578869d8fdcd0510b6d2ad501"
   }
 }
