@@ -60,44 +60,6 @@ import { Button, Input } from "@marca-personal/design-system";
 
 | Component | Description | Doc | Source |
 |-----------|-------------|-----|--------|
-| `Accordion` | — | [Accordion.md](components/Accordion.md) | [Accordion.tsx](components/Accordion.tsx) |
-| `Alert` | — | [Alert.md](components/Alert.md) | [Alert.tsx](components/Alert.tsx) |
-| `AlertDialog` | A focused modal that demands an explicit decision before the user can continue. | [AlertDialog.md](components/AlertDialog.md) | [AlertDialog.tsx](components/AlertDialog.tsx) |
-| `Avatar` | A circular visual that represents a user, account or entity through image, initi | [Avatar.md](components/Avatar.md) | [Avatar.tsx](components/Avatar.tsx) |
-| `Badge` | A small, saturated indicator that emphasises a count, status or label. | [Badge.md](components/Badge.md) | [Badge.tsx](components/Badge.tsx) |
-| `Breadcrumb` | — | [Breadcrumb.md](components/Breadcrumb.md) | [Breadcrumb.tsx](components/Breadcrumb.tsx) |
-| `Button` | An interactive control that triggers an immediate action, submission, or navigat | [Button.md](components/Button.md) | [Button.tsx](components/Button.tsx) |
-| `ButtonGroup` | A horizontally or vertically aligned set of related Buttons, typically the commi | [ButtonGroup.md](components/ButtonGroup.md) | [ButtonGroup.tsx](components/ButtonGroup.tsx) |
-| `Calendar` | — | [Calendar.md](components/Calendar.md) | [Calendar.tsx](components/Calendar.tsx) |
-| `Card` | A self-contained surface that groups a heading, body, optional media and actions | [Card.md](components/Card.md) | [Card.tsx](components/Card.tsx) |
-| `Carousel` | — | [Carousel.md](components/Carousel.md) | [Carousel.tsx](components/Carousel.tsx) |
-| `Chart` | — | [Chart.md](components/Chart.md) | [Chart.tsx](components/Chart.tsx) |
-| `Checkbox` | A toggle that selects or deselects an independent option; multiple checkboxes ca | [Checkbox.md](components/Checkbox.md) | [Checkbox.tsx](components/Checkbox.tsx) |
-| `Collapsible` | — | [Collapsible.md](components/Collapsible.md) | [Collapsible.tsx](components/Collapsible.tsx) |
-| `Command` | — | [Command.md](components/Command.md) | [Command.tsx](components/Command.tsx) |
-| `Dialog` | — | [Dialog.md](components/Dialog.md) | [Dialog.tsx](components/Dialog.tsx) |
-| `DropdownMenu` | — | [DropdownMenu.md](components/DropdownMenu.md) | [DropdownMenu.tsx](components/DropdownMenu.tsx) |
-| `Empty` | — | [Empty.md](components/Empty.md) | [Empty.tsx](components/Empty.tsx) |
-| `Field` | — | [Field.md](components/Field.md) | [Field.tsx](components/Field.tsx) |
-| `Input` | A single-line text field for free-form entry such as names, emails or short valu | [Input.md](components/Input.md) | [Input.tsx](components/Input.tsx) |
-| `InputGroup` | — | [InputGroup.md](components/InputGroup.md) | [InputGroup.tsx](components/InputGroup.tsx) |
-| `InputOTP` | — | [InputOTP.md](components/InputOTP.md) | [InputOTP.tsx](components/InputOTP.tsx) |
-| `Item` | — | [Item.md](components/Item.md) | [Item.tsx](components/Item.tsx) |
-| `Kbd` | — | [Kbd.md](components/Kbd.md) | [Kbd.tsx](components/Kbd.tsx) |
-| `Label` | — | [Label.md](components/Label.md) | [Label.tsx](components/Label.tsx) |
-| `NavigationMenu` | — | [NavigationMenu.md](components/NavigationMenu.md) | [NavigationMenu.tsx](components/NavigationMenu.tsx) |
-| `Pagination` | A navigational control that splits long content into numbered pages and lets use | [Pagination.md](components/Pagination.md) | [Pagination.tsx](components/Pagination.tsx) |
-| `Progress` | — | [Progress.md](components/Progress.md) | [Progress.tsx](components/Progress.tsx) |
-| `RadioGroup` | A labelled set of Radios where exactly one option must be selected. | [RadioGroup.md](components/RadioGroup.md) | [RadioGroup.tsx](components/RadioGroup.tsx) |
-| `Resizable` | — | [Resizable.md](components/Resizable.md) | [Resizable.tsx](components/Resizable.tsx) |
-| `ScrollArea` | — | [ScrollArea.md](components/ScrollArea.md) | [ScrollArea.tsx](components/ScrollArea.tsx) |
-| `Select` | A control that opens a list of options and displays the chosen one in a trigger  | [Select.md](components/Select.md) | [Select.tsx](components/Select.tsx) |
-| `Separator` | — | [Separator.md](components/Separator.md) | [Separator.tsx](components/Separator.tsx) |
-| `Sheet` | — | [Sheet.md](components/Sheet.md) | [Sheet.tsx](components/Sheet.tsx) |
-| `Skeleton` | — | [Skeleton.md](components/Skeleton.md) | [Skeleton.tsx](components/Skeleton.tsx) |
-| `Slider` | A draggable thumb on a track that lets users pick a value within a continuous ra | [Slider.md](components/Slider.md) | [Slider.tsx](components/Slider.tsx) |
-| `Sonner` | — | [Sonner.md](components/Sonner.md) | [Sonner.tsx](components/Sonner.tsx) |
-| `Spinner` | An indeterminate animation that signals that work is in progress when duration i | [Spinner.md](components/Spinner.md) | [Spinner.tsx](components/Spinner.tsx) |
 | `Switch` | A binary control that turns a setting on or off and applies the change immediate | [Switch.md](components/Switch.md) | [Switch.tsx](components/Switch.tsx) |
 | `Table` | — | [Table.md](components/Table.md) | [Table.tsx](components/Table.tsx) |
 | `Tabs` | Switches between related views inside the same surface without leaving the page. | [Tabs.md](components/Tabs.md) | [Tabs.tsx](components/Tabs.tsx) |
