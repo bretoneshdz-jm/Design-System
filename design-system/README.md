@@ -94,4 +94,4 @@ interface — read them before instantiating. Token usage: `var(--ds-…)` from
 `tokens.css` (never hard-code hex values).
 
 
-Generated at 2026-11-04T16:57:30.436Z.
+Generated at 2026-11-04T17:02:58.159Z.
